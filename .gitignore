@@ -1,3 +1,10 @@
+# Emacs Backups
+*~
+
+# vscode files
+.vscode
+
+
 # Prerequisites
 *.d
 
@@ -50,3 +57,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build Directories
+build/*
+
